@@ -14,7 +14,7 @@ Django REST API intigration with Machine Learning
 <h3>using pip</h3>
 <hr>
 <p><strong>Migrate </strong></p>
-<h3>python manage.py makemigrations and python amange.py migrate</h3>
+<h3>python manage.py makemigrations and python manage.py migrate</h3>
 <hr>
 <p><strong>Run the Project </strong></p>
 <h3>python manage.py runserver</h3>
