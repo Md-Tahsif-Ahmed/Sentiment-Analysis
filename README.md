@@ -18,6 +18,10 @@ Django REST API intigration with Machine Learning
 <hr>
 <p><strong>Run the Project </strong></p>
 <h3>python manage.py runserver</h3>
+<hr>
+<p><strong>Send Request and show response</strong></p>
+<h3>using Postman and do POST text and send request then show response like Positive/Negative/Neutral </h3>
+
 
 
 
